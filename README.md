@@ -1,0 +1,2 @@
+# laravue-frontend
+LaraVue Frontend
